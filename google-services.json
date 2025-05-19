@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858298644979",
+    "project_id": "clitz-e01cc",
+    "storage_bucket": "clitz-e01cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858298644979:android:a44142c24091c580563a86",
+        "android_client_info": {
+          "package_name": "com.example.clitz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjWuIiPoeEIFnZpOiNvpTloJT3zH_p4uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
